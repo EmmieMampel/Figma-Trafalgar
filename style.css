@@ -6,15 +6,6 @@
 
 body{
     background-color: #E5E5E5;
-    display: grid;
-    min-height: 100vh;
-}
-
-.hero{
-    height: 100%;
-    width: 100%;
-    background-position: center;
-    background-size: cover;
 }
 
 nav{
@@ -29,14 +20,12 @@ nav{
 }
 
 nav ul{
-    flex: 5;
     text-align: right;
 }
 
 nav ul li{
     display: inline-block;
     list-style: none;
-    margin: 10px 25px;
 }
 
 .logo{
