@@ -1,0 +1,47 @@
+*{
+    margin-top: 0;
+    margin-bottom: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #E5E5E5;
+    display: grid;
+    min-height: 100vh;
+}
+
+.hero{
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    width: 543.67px;
+    height: 45.94px;
+    left: 866.4px;
+    top: 69.98px;
+}
+
+nav ul{
+    flex: 5;
+    text-align: right;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 25px;
+}
+
+.logo{
+    Width: 159.35px;
+    Height: 41px;
+    Top: 56px;
+    Left: 196.03px;
+}
