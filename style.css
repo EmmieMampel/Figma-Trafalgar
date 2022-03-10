@@ -4,33 +4,67 @@
     box-sizing: border-box;
 }
 
-body{
-    background-color: #E5E5E5;
-}
-
-nav{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+body {
     position: relative;
-    width: 543.67px;
-    height: 45.94px;
-    left: 866.4px;
-    top: 69.98px;
+    width: 1600px;
+    height: 3000px;
+    background: #FFFFFF;
 }
 
-nav ul{
-    text-align: right;
+div {
+    display: block;
 }
 
-nav ul li{
-    display: inline-block;
-    list-style: none;
+nav {
+    display: flex;
+    position: absolute;
+    width: 1400px;
+    height: 78px;
+    background: #fff;
+    top: 20px;
+    left: 0px;
+    justify-content: center;
 }
 
-.logo{
-    Width: 159.35px;
-    Height: 41px;
-    Top: 56px;
-    Left: 196.03px;
+nav img {
+    position: absolute;
+    width: 691.32px;
+    height: 597.17px;
+    left: 747.68px;
+    top: 176.83px;
+}
+
+header {
+    position: absolute;
+    width: 1415px;
+    height: 786px;
+    background-color: blue;
+    margin-top: 35px;
+    margin-left: 80px;
+}
+
+section {
+    position: relative;
+    width: 1182.73px;
+    height: 1131px;
+    left: 230px;
+    top: 995px;
+    background-color: green;
+}
+
+footer {
+    position: absolute;
+    width: 1640px;
+    height: 482px;
+    left: 6px;
+    top: 2553px;
+    background-color: yellow;
+}
+
+img.footer {
+    position: absolute;
+    width: 184.35px;
+    height: 31.97px;
+    right: 927px;
+    top: 90px;
 }
