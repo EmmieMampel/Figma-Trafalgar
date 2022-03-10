@@ -1,3 +1,5 @@
+/* If you're seeing this Johan, ty for the idea about highlighting the sections in different background colors */
+
 *{
     margin-top: 0;
     margin-bottom: 0;
@@ -67,4 +69,10 @@ img.footer {
     height: 31.97px;
     right: 927px;
     top: 90px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
