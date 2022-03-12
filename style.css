@@ -1,3 +1,25 @@
+<<<<<<< HEAD
+/* If you're seeing this Johan, ty for the idea about highlighting the sections in different background colors */
+
+*{
+    margin-top: 0;
+    margin-bottom: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: block;
+    position: relative;
+    width: 1600px;
+    height: 2500px;
+    background: #FFFFFF;
+}
+
+div {
+    display: block;
+}
+
+=======
 /* If you're seeing this Johan, ty for the idea about highlighting the sections in different background colors */
 
 *{
@@ -76,3 +98,4 @@ img.footer {
     justify-content: center;
     align-items: center;
 }
+>>>>>>> bf93e2d1556a640e2e4d092c79c08b8f31435c30
